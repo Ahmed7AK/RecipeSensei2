@@ -1,0 +1,36 @@
+#body-div {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+#body-pic-text-div {
+    display: flex;
+}
+#desktop-photo {
+    height: 500px;
+}
+#bg-text-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("./images/text-bg.jpg");
+    height: 500px;
+    width: 600px;
+}
+#bg-text-title {
+    color: white;
+    font-size: 30px;
+}
+#bg-text-middle {
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+    font-size: 18px;
+}
+.link {
+    color: white;
+    transition: .75s;
+}
+.link:hover {
+    color: rgb(193, 23, 30);
+}

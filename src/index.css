@@ -10,3 +10,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+#red {
+  color: rgb(193, 23, 30);
+}
